@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1079555606536-94kaf0a3u73072a9dbohv0m5tmti35e1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1079555606536-94kaf0a3u73072a9dbohv0m5tmti35e1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1079555606536-v585t821m9fi793tnb0ir4pd2k2f9ffc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-mb2xiZEjJD6Qj1Sw-yAYgUROM7qHQng</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1079555606536</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.timeTracker</string>
+	<key>PROJECT_ID</key>
+	<string>time-tracker-flutter-1f323</string>
+	<key>STORAGE_BUCKET</key>
+	<string>time-tracker-flutter-1f323.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1079555606536:ios:0612b26768bfa4954529bd</string>
+</dict>
+</plist>
